@@ -20,7 +20,7 @@
 *Projects in progress to showcase my end-to-end technical capabilities:*
 
 * **[End-to-End Feature Delivery]** *Bridging the gap from business requirement documentation to Playwright automation.*
-* **[API Testing Framework]** *A robust framework for RESTful API validation using Postman and Newman.*
+* **[API Testing Framework]** *A robust framework for RESTful API validation using Postman.*
 
 ---
 
