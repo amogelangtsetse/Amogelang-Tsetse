@@ -10,7 +10,7 @@
 | **Business Analysis** | **Quality Assurance** | **Technical & Data** |
 | :--- | :--- | :--- |
 | • BRDs & User Stories (Gherkin) | • Automation (Playwright) | • SQL (Data Queries) |
-| • BPMN 2.0 & Flowcharts | • API Testing (Postman/Newman) | • Git Version Control |
+| • BPMN 2.0 & Flowcharts | • API Testing (Postman) | • Git Version Control |
 | • Agile & SDLC/STLC | • Manual & UAT Testing | • Jira & Bug Tracking |
 | • UML (Lucidchart/Miro) | • Regression & Exploratory | • System Documentation |
 
